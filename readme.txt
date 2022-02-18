@@ -1,0 +1,1 @@
+add "type": "module" in package.json to use import and export statements
